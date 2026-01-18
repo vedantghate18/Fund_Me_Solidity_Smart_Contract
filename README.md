@@ -1,8 +1,5 @@
-# Remix IDE Blank Template
-
-Welcome to your new **Remix IDE Blank Workspace**!
-
-This workspace has been generated using the "Blank Template" option in Remix IDE. It starts with only minimal configuration files, giving you full control to build your project from scratch.
+# Fund Me 
+A Solidity-based decentralized funding contract using Chainlink price feeds to enforce minimum USD contributions, featuring secure withdrawals, gas optimization, and industry-standard smart contract patterns.
 
 ---
 
