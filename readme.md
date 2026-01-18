@@ -1,0 +1,1 @@
+A Solidity-based decentralized funding contract using Chainlink price feeds to enforce minimum USD contributions, featuring secure withdrawals, gas optimization, and industry-standard smart contract patterns.
